@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\CoinCalculator\bin\Debug\netcoreapp3.1\CoinCalculator.exe
+C:\Users\Josh\source\repos\CoinCalculator\bin\Debug\netcoreapp3.1\CoinCalculator.deps.json
+C:\Users\Josh\source\repos\CoinCalculator\bin\Debug\netcoreapp3.1\CoinCalculator.runtimeconfig.json
+C:\Users\Josh\source\repos\CoinCalculator\bin\Debug\netcoreapp3.1\CoinCalculator.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\CoinCalculator\bin\Debug\netcoreapp3.1\CoinCalculator.dll
+C:\Users\Josh\source\repos\CoinCalculator\bin\Debug\netcoreapp3.1\CoinCalculator.pdb
+C:\Users\Josh\source\repos\CoinCalculator\obj\Debug\netcoreapp3.1\CoinCalculator.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\CoinCalculator\obj\Debug\netcoreapp3.1\CoinCalculator.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\CoinCalculator\obj\Debug\netcoreapp3.1\CoinCalculator.AssemblyInfo.cs
+C:\Users\Josh\source\repos\CoinCalculator\obj\Debug\netcoreapp3.1\CoinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\CoinCalculator\obj\Debug\netcoreapp3.1\CoinCalculator.dll
+C:\Users\Josh\source\repos\CoinCalculator\obj\Debug\netcoreapp3.1\CoinCalculator.pdb
+C:\Users\Josh\source\repos\CoinCalculator\obj\Debug\netcoreapp3.1\CoinCalculator.genruntimeconfig.cache
