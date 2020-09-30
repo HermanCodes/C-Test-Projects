@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\MadLib\bin\Debug\netcoreapp3.1\MadLib.exe
+C:\Users\Josh\source\repos\MadLib\bin\Debug\netcoreapp3.1\MadLib.deps.json
+C:\Users\Josh\source\repos\MadLib\bin\Debug\netcoreapp3.1\MadLib.runtimeconfig.json
+C:\Users\Josh\source\repos\MadLib\bin\Debug\netcoreapp3.1\MadLib.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\MadLib\bin\Debug\netcoreapp3.1\MadLib.dll
+C:\Users\Josh\source\repos\MadLib\bin\Debug\netcoreapp3.1\MadLib.pdb
+C:\Users\Josh\source\repos\MadLib\obj\Debug\netcoreapp3.1\MadLib.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\MadLib\obj\Debug\netcoreapp3.1\MadLib.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\MadLib\obj\Debug\netcoreapp3.1\MadLib.AssemblyInfo.cs
+C:\Users\Josh\source\repos\MadLib\obj\Debug\netcoreapp3.1\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\MadLib\obj\Debug\netcoreapp3.1\MadLib.dll
+C:\Users\Josh\source\repos\MadLib\obj\Debug\netcoreapp3.1\MadLib.pdb
+C:\Users\Josh\source\repos\MadLib\obj\Debug\netcoreapp3.1\MadLib.genruntimeconfig.cache
